@@ -1,0 +1,64 @@
+{
+    "F1Data": {
+        "xmlns": "",
+        "series": "f1",
+        "url": "",
+        "limit": "30",
+        "offset": "0",
+        "total": "13",
+        "RaceTable": {
+            "season": "2020",
+            "Races": [{
+                    "season": "2020",
+                    "round": "1",
+                    "url": "",
+                    "raceName": "myWorld Grosser Preis Von Österreich",
+                    "Circuit": {
+                        "circuitId": "red_bull_ring",
+                        "url": "http://en.wikipedia.org/wiki/Red Bull Ring",
+                        "circuitName": "Red Bull Ring",
+                        "Location": {
+                            "lat": "47.2197",
+                            "long": "14.7647",
+                            "locality": "Spielburg",
+                            "country": "Austria"
+                        },
+                        "History": {
+                            "firstRace": "1970",
+                            "numberOfLaps": "71",
+                            "circuitLength": "4.318"
+                        },
+                        "Images": {
+                            "background": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Racehub%20header%20images%2016x9/Austria.jpg.transform/12col/image.jpg",
+                            "flag": "https://www.formula1.com/content/dam/fom-website/flags/Austria.jpg.transform/2col/image.jpg",
+                            "track": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Austria%20carbon.png.transform/2col-retina/image.png"
+                        }
+                    },
+                    "Schedule": {
+                        "Practice1": {
+                            "start": "03-JUL-2020 09:00",
+                            "end": "03-JUL-2020 10:30"
+                        },
+                        "Practice2": {
+                            "start": "03-JUL-2020 13:00",
+                            "end": "03-JUL-2020 14:30"
+                        },
+                        "Practice3": {
+                            "start": "04-JUL-2020 10:00",
+                            "end": "04-JUL-2020 11:00"
+                        },
+                        "Qualifying": {
+                            "start": "04-JUL-2020 13:00",
+                            "end": "04-JUL-2020 14:00"
+                        },
+                        "Race": {
+                            "start": "05-JUL-2020 13:10",
+                            "end": "05-JUL-2020 15:10"
+                        }
+                    }
+                }
+
+            ]
+        }
+    }
+}
