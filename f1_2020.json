@@ -56,6 +56,55 @@
                             "end": "2020y07M05d15h10m"
                         }
                     }
+                },
+                {
+                    "season": "2020",
+                    "round": "2",
+                    "url": "",
+                    "raceName": "myWorld Grosser Preis Von Österreich II",
+                    "Circuit": {
+                        "circuitId": "red_bull_ring",
+                        "url": "http://en.wikipedia.org/wiki/Red Bull Ring",
+                        "circuitName": "Red Bull Ring",
+                        "Location": {
+                            "lat": "47.2197",
+                            "long": "14.7647",
+                            "locality": "Spielburg",
+                            "country": "Austria"
+                        },
+                        "History": {
+                            "firstRace": "1970",
+                            "numberOfLaps": "71",
+                            "circuitLength": "4.318"
+                        },
+                        "Images": {
+                            "background": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Racehub%20header%20images%2016x9/Austria.jpg.transform/12col/image.jpg",
+                            "flag": "https://www.formula1.com/content/dam/fom-website/flags/Austria.jpg.transform/2col/image.jpg",
+                            "track": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Austria%20carbon.png.transform/2col-retina/image.png"
+                        }
+                    },
+                    "Schedule": {
+                        "Practice1": {
+                            "start": "2020y07M10d09h00m",
+                            "end": "2020y07M10d10h30m"
+                        },
+                        "Practice2": {
+                            "start": "2020y07M03d13h00m",
+                            "end": "2020y07M10d14h30m"
+                        },
+                        "Practice3": {
+                            "start": "2020y07M11d10h00m",
+                            "end": "2020y07M11d11h00m"
+                        },
+                        "Qualifying": {
+                            "start": "2020y07M11d13h00m",
+                            "end": "2020y07M11d14h00m"
+                        },
+                        "Race": {
+                            "start": "2020y07M12d13h10m",
+                            "end": "2020y07M12d15h10m"
+                        }
+                    }
                 }
 
             ]
